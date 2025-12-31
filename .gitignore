@@ -1,0 +1,32 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# ===== Jupyter =====
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# ===== OS files =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== IDEs =====
+.vscode/
+.idea/
+
+# ===== Logs & temp =====
+*.log
+*.tmp
+
+# ===== Python packaging =====
+build/
+dist/
+*.egg-info/
+
