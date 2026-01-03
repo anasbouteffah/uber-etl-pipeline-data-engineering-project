@@ -142,7 +142,7 @@ rfc3987-syntax==1.1.0
 rich==13.9.4
 rpds-py==0.30.0
 ruamel.yaml==0.17.17
-scikit-learn==1.8.0
+scikit-learn==1.5.2
 scipy==1.16.3
 Send2Trash==2.0.0
 sentry-sdk==1.19.1
