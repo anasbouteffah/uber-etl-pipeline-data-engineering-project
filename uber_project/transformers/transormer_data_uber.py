@@ -87,11 +87,11 @@ def transform(df, *args, **kwargs):
         'datetime_id',
         'rate_code_id',
         'payment_type_id',
-        'tpep_pickup_datetime',   # <--- ADDED: Actual Date
-        'tpep_dropoff_datetime',  # <--- ADDED: Actual Date
-        'payment_type_name',      # <--- ADDED: Readable Name (Credit Card, etc.)
-        'rate_code_name',         # <--- ADDED: Readable Name (Standard, JFK, etc.)
-        'vendor_name',            # <--- ADDED: Readable Name
+        'tpep_pickup_datetime',   
+        'tpep_dropoff_datetime',  
+        'payment_type_name',      
+        'rate_code_name',         
+        'vendor_name',            
         'passenger_count',
         'trip_distance',
         'fare_amount',
@@ -100,7 +100,11 @@ def transform(df, *args, **kwargs):
         'tip_amount',
         'tolls_amount',
         'improvement_surcharge',
-        'total_amount'
+        'total_amount',
+        'pickup_longitude',       
+        'pickup_latitude',
+        'dropoff_longitude',
+        'dropoff_latitude'
     ]]
 
     return fact_table
