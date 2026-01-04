@@ -4,13 +4,13 @@
 I built an end-to-end data engineering pipeline to process and analyze Uber trip records. The goal was to transform raw data into a structured format (Star Schema) suitable for analytics, orchestrate the workflow using Mage.ai, and build dashboards for business insights.
 
 ## Architecture Diagram
-![Architecture Diagram](images/Gemini_Generated_Image_f2atmif2atmif2at.png)
+![Architecture Diagram](images/arch.png)
 
 ## Technologies
 - **Language**: Python
 - **Transformation**: Pandas (Data cleaning, Dimensional Modeling)
 - **Orchestration**: Mage.ai (ETL Pipeline management)
-- **Storage**: Local Storage / Google Cloud Storage (Architecture designed for Cloud)
+- **Storage**: Local Storage
 - **Visualization**: Google Looker Studio & Power BI
 
 ## Data Model
