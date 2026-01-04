@@ -30,3 +30,10 @@ build/
 dist/
 *.egg-info/
 
+# ===== Mage.ai =====
+.mage_data/
+mage_data/
+.DS_Store
+
+# ===== Data (Optional but Recommended) =====
+
