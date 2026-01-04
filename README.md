@@ -4,8 +4,7 @@
 I built an end-to-end data engineering pipeline to process and analyze Uber trip records. The goal was to transform raw data into a structured format (Star Schema) suitable for analytics, orchestrate the workflow using Mage.ai, and build dashboards for business insights.
 
 ## Architecture Diagram
-![Architecture Diagram]()
-*( Architecture Diagram)*
+![Architecture Diagram](images/Gemini_Generated_Image_f2atmif2atmif2at.png)
 
 ## Technologies
 - **Language**: Python
@@ -16,6 +15,8 @@ I built an end-to-end data engineering pipeline to process and analyze Uber trip
 
 ## Data Model
 I designed a **Star Schema** to optimize the data for analytical queries.
+
+![Data Model](data_model/data_model.jpeg)
 
 ### Schema Structure
 - **Fact Table**: `fact_table`
@@ -53,5 +54,3 @@ Execute the ETL pipeline within the Mage UI.
 The final results are visualized in Google Looker Studio and Power BI, providing insights such as:
 - **Revenue by Payment Type**
 - **Map Visualization** of trip routes and densities
-
-
