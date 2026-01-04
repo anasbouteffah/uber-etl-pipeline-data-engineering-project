@@ -5,7 +5,7 @@ I built an end-to-end data engineering pipeline to process and analyze Uber trip
 
 ## Architecture Diagram
 ![Architecture Diagram]()
-*(Placeholder for Architecture Diagram)*
+*( Architecture Diagram)*
 
 ## Technologies
 - **Language**: Python
