@@ -53,3 +53,5 @@ Execute the ETL pipeline within the Mage UI.
 The final results are visualized in Google Looker Studio and Power BI, providing insights such as:
 - **Revenue by Payment Type**
 - **Map Visualization** of trip routes and densities
+
+
