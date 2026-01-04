@@ -4,7 +4,7 @@
 I built an end-to-end data engineering pipeline to process and analyze Uber trip records. The goal was to transform raw data into a structured format (Star Schema) suitable for analytics, orchestrate the workflow using Mage.ai, and build dashboards for business insights.
 
 ## Architecture Diagram
-![Architecture Diagram](path/to/diagram.png)
+![Architecture Diagram]()
 *(Placeholder for Architecture Diagram)*
 
 ## Technologies
